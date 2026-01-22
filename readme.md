@@ -17,86 +17,77 @@
 
 </p>
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
-
 <br/>
 <br/>
 
 ## 💻 Sobre o Projeto
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Como é o trabalho de um(a) Desenvolvedor Web:
+
+Criar e manter páginas e aplicações web
+
+Trabalhar com HTML, CSS e JavaScript para front-end
+
+Desenvolver APIs e lógica de negócio em Python ou Node.js
+
+Testar e corrigir bugs em aplicações
+
+Colaborar com designers e outros devs para entregar soluções
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+CORE SKILLS (essenciais):
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+HTML, CSS e JavaScript
 
-- _Exemplo_:
+Lógica de programação
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+Python (para back-end e automações)
 
-- [Outros pré-requisitos, se aplicável]
+NICE-TO-HAVE (complementares):
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+Git/GitHub (controle de versão)
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+Noções de banco de dados (SQL e NoSQL)
 
-- [Lista das habilidades principais a serem desenvolvidas]
+FERRAMENTAS E TECNOLOGIAS:
 
-  - [Subhabilidades relacionadas, se aplicável]
+VS Code
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+Node.js
 
-## 🎯 Objetivos e Resultados Esperados
+Django/Flask (Python)
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+## 🎯 Após a conclusão do projeto, os estudantes deverão ser aptos a:
+
+Descrição de competências adquiridas:
+
+•	Compreender e aplicar os fundamentos de HTML, CSS e JavaScript para criar interfaces web.
+
+•	Utilizar Python (Flask ou Django) para desenvolver back-end e APIs.
+
+•	Integrar front-end e back-end em uma aplicação funcional.
+
+•	Implementar operações de CRUD (Create, Read, Update, Delete) em banco de dados.
+
+•	Publicar projetos em plataformas online (GitHub, Heroku/Render) e documentar adequadamente.
+
+•	Trabalhar com Git/GitHub para versionamento e colaboração.
+
+
+##🛠️ Projetos ou soluções que os estudantes estarão aptos a construir:
+
+•	Aplicações Web completas (front-end + back-end) como blogs, sistemas de tarefas ou gerenciadores de notas.
+
+•	APIs RESTful para comunicação entre sistemas.
+
+•	Interfaces responsivas que funcionam em diferentes dispositivos.
+
+•	Projetos colaborativos com controle de versão e boas práticas de desenvolvimento.
+
+•	Protótipos de soluções reais, como sistemas de cadastro de usuários, e-commerce básico ou dashboards simples.
+
 
 <!--START_SECTION:footer-->
 
